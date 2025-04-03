@@ -1,0 +1,3 @@
+C:/Users/Brmax/OneDrive/Escritorio/U/5 AÑO/LENG Y PAR/APP 1/cmake-build-debug/CMakeFiles/pizzeria.dir
+C:/Users/Brmax/OneDrive/Escritorio/U/5 AÑO/LENG Y PAR/APP 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Brmax/OneDrive/Escritorio/U/5 AÑO/LENG Y PAR/APP 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
